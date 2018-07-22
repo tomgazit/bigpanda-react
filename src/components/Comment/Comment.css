@@ -1,0 +1,9 @@
+.commentData {
+	text-align: left;
+	color: gray;
+}
+
+.gravatar {
+	border-radius: 5px;
+	cursor: pointer;
+}
